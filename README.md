@@ -2,4 +2,4 @@
 
 ### Deploy
 
-  - ![To-Do List](https://todolist-trindade.netlify.app/)
+  - [To-Do List](https://todolist-trindade.netlify.app/)
